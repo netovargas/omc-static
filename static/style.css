@@ -1,0 +1,114 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 200%;
+}
+
+li{
+    float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active){
+  background-color: #111;
+}
+
+.right{
+  float: right;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  padding-top: 5%;
+}
+
+.info{
+  display: block;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: white;
+}
+
+.desription{
+  display: block;
+  padding-top: 0%;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: white;
+}
+
+#mc_embed_signup{
+  background: transparent;
+  clear:left;
+  font:14px;
+  color: white;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#banner{
+  text-align: center;
+}
+
+#mc_embed_signup_scroll{
+  text-align: center;
+}
+
+#mc-embedded-subscribe{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#mce-EMAIL{
+  font-family: 'Montserrat', sans-serif;
+}
+
+html{
+  /*background-color: #E8B386;*/
+  /*background-image: url("background.jpg");*/
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  background: #88bbe2; /* Old browsers */
+  background: -webkit-linear-gradient(#88bbe2 16%, #ed9393 93%);
+  background: -o-linear-gradient(#88bbe2 16%, #ed9393 93%);
+  background: linear-gradient(#88bbe2 16%, #ed9393 93%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.archive{
+  display: block;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: white;
+  overflow: visible;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.display_archive {
+  color: white;
+  font-size: 16px;
+}
+
+.campaign {
+  line-height: 125%;
+  margin: 5px;
+}
+
+
