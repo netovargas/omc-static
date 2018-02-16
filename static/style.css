@@ -82,9 +82,6 @@ html{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   background: #88bbe2; /* Old browsers */
-  background: -webkit-linear-gradient(#88bbe2 16%, #ed9393 93%);
-  background: -o-linear-gradient(#88bbe2 16%, #ed9393 93%);
-  background: linear-gradient(#88bbe2 16%, #ed9393 93%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
 .archive{
